@@ -1,4 +1,4 @@
 # aula02
 aula2senai
 
-https://github.dev/drako883/aula02
+https://github.github.io/drako883/aula02
