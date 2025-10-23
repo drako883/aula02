@@ -1,5 +1,7 @@
-# Sengunda aula de html
+# Segunda aula 
 
-link de acesso
+Segunda aula de html
+
+# Link de acesso
 
 https://drako883.github.io/aula02/
