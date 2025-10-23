@@ -1,5 +1,5 @@
-# aula02
+# Sengunda aula de html
 
-LINK
+link de acesso
 
 https://drako883.github.io/aula02/
